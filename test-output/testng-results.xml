@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63376" started-at="2022-04-01T15:16:10 IST" finished-at="2022-04-01T15:17:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63376" started-at="2022-04-01T15:16:10 IST" finished-at="2022-04-01T15:17:14 IST">
+      <class name="com.automation.RunnerClass_TestNG">
+        <test-method status="PASS" signature="reportGeneration()[pri:0, instance:com.automation.RunnerClass_TestNG@553f1d75]" name="reportGeneration" is-config="true" duration-ms="411" started-at="2022-04-01T15:16:10 IST" finished-at="2022-04-01T15:16:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportGeneration -->
+        <test-method status="PASS" signature="urlLaunchDetails()[pri:1, instance:com.automation.RunnerClass_TestNG@553f1d75]" name="urlLaunchDetails" duration-ms="7131" started-at="2022-04-01T15:16:11 IST" finished-at="2022-04-01T15:16:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunchDetails -->
+        <test-method status="PASS" signature="homePageDetails()[pri:2, instance:com.automation.RunnerClass_TestNG@553f1d75]" name="homePageDetails" duration-ms="8066" started-at="2022-04-01T15:16:18 IST" finished-at="2022-04-01T15:16:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageDetails -->
+        <test-method status="PASS" signature="loginPageDetails()[pri:3, instance:com.automation.RunnerClass_TestNG@553f1d75]" name="loginPageDetails" duration-ms="287" started-at="2022-04-01T15:16:26 IST" finished-at="2022-04-01T15:16:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageDetails -->
+        <test-method status="PASS" signature="personalInformationDetails()[pri:4, instance:com.automation.RunnerClass_TestNG@553f1d75]" name="personalInformationDetails" duration-ms="14755" started-at="2022-04-01T15:16:26 IST" finished-at="2022-04-01T15:16:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personalInformationDetails -->
+        <test-method status="PASS" signature="cotegoryPageDetails()[pri:5, instance:com.automation.RunnerClass_TestNG@553f1d75]" name="cotegoryPageDetails" duration-ms="4179" started-at="2022-04-01T15:16:41 IST" finished-at="2022-04-01T15:16:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cotegoryPageDetails -->
+        <test-method status="PASS" signature="productPageDetails()[pri:6, instance:com.automation.RunnerClass_TestNG@553f1d75]" name="productPageDetails" duration-ms="14207" started-at="2022-04-01T15:16:45 IST" finished-at="2022-04-01T15:16:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productPageDetails -->
+        <test-method status="PASS" signature="orderPageDetails()[pri:7, instance:com.automation.RunnerClass_TestNG@553f1d75]" name="orderPageDetails" duration-ms="7163" started-at="2022-04-01T15:16:59 IST" finished-at="2022-04-01T15:17:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderPageDetails -->
+        <test-method status="PASS" signature="paymentPageDetails()[pri:9, instance:com.automation.RunnerClass_TestNG@553f1d75]" name="paymentPageDetails" duration-ms="1721" started-at="2022-04-01T15:17:06 IST" finished-at="2022-04-01T15:17:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentPageDetails -->
+        <test-method status="PASS" signature="configurationPageDetails()[pri:10, instance:com.automation.RunnerClass_TestNG@553f1d75]" name="configurationPageDetails" duration-ms="4680" started-at="2022-04-01T15:17:08 IST" finished-at="2022-04-01T15:17:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configurationPageDetails -->
+        <test-method status="PASS" signature="flush()[pri:0, instance:com.automation.RunnerClass_TestNG@553f1d75]" name="flush" is-config="true" duration-ms="695" started-at="2022-04-01T15:17:13 IST" finished-at="2022-04-01T15:17:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- com.automation.RunnerClass_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

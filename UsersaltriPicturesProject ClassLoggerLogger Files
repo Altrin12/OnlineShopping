@@ -1,0 +1,8 @@
+2022-03-22 09:19:31 INFO  Logger_PropertyConfiguration:15 - Info
+2022-03-22 09:19:31 WARN  Logger_PropertyConfiguration:16 - Warn
+2022-03-22 09:19:31 ERROR Logger_PropertyConfiguration:17 - Error
+2022-03-22 09:19:31 FATAL Logger_PropertyConfiguration:18 - Fatal
+2022-03-22 09:21:17 INFO  Logger_PropertyConfiguration:15 - Info
+2022-03-22 09:21:17 WARN  Logger_PropertyConfiguration:16 - Warn
+2022-03-22 09:21:17 ERROR Logger_PropertyConfiguration:17 - Error
+2022-03-22 09:21:17 FATAL Logger_PropertyConfiguration:18 - Fatal
