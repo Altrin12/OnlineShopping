@@ -29,7 +29,7 @@ public class Runner_Class extends Base_Class {
 		clickOnElement(pom.getHP().getLogin());
 		deleteAllCookies();
 		
-		driver.findElement(By.name("email_create")).sendKeys("altrin137@gmail.com");
+		driver.findElement(By.name("email_create")).sendKeys("altrin18@gmail.com");
 		//inputValueElement(pom.getLP().getEmaill(),particularData("C:\\Users\\altri\\eclipse-workspace\\Maven_Projects\\Test Cases\\Test Case Online Shoping.xlsx",2,5));
 		clickOnElement(pom.getLP().getSignin());
 
